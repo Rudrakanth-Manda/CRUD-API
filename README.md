@@ -44,6 +44,3 @@ A RESTful web application built using Java and Spring Boot to manage book record
 - Database integration using Spring Data JPA.
 - HTTP status handling.
 - Spring Boot annotations and dependency injection.
-
-## Author
-**Rudrakanth Manda**
